@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/eduardonakaidev/utils"
+	"github.com/eduardonakaidev/go-jwt-auth-example/utils"
 )
 
 // AuthMiddleware is a middleware function for JWT token validation.

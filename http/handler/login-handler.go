@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/eduardonakaidev/utils"
+	"github.com/eduardonakaidev/go-jwt-auth-example/utils"
 )
 
 type LoginRequest struct {

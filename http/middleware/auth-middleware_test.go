@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/eduardonakaidev/utils"
+	"github.com/eduardonakaidev/go-jwt-auth-example/utils"
 )
 
 func TestSecureHandler_WithValidToken(t *testing.T) {

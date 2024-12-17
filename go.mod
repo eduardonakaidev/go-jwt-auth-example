@@ -1,4 +1,4 @@
-module github.com/eduardonakaidev
+module github.com/eduardonakaidev/go-jwt-auth-example
 
 go 1.23.3
 

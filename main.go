@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/eduardonakaidev/http/handler"
-	"github.com/eduardonakaidev/http/middleware"
+	"github.com/eduardonakaidev/go-jwt-auth-example/http/handler"
+	"github.com/eduardonakaidev/go-jwt-auth-example/http/middleware"
 	"net/http"
 )
 
